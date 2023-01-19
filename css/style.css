@@ -1,0 +1,26 @@
+/*agregamos fuentes*/
+@font-face{
+    font-family: Gowild;
+    src: url(/font/Go\ Wild.ttf);
+}
+
+body{
+    font-family: Gowild;
+    /*background: url(/img/calle.jpg);*/
+    background-size: 100%;
+}
+h1{
+    color:rgb(162, 197, 57);
+}
+button{
+    /*agregando bordes*/
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgba(240, 241, 255, 0.604);
+    font-family: Gowild;
+    color: rgba(49, 60, 58, 0.795);
+
+}
+

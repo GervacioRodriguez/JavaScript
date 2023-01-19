@@ -1,1 +1,0 @@
-alert("hola soy una alerta nativa en javascript")
